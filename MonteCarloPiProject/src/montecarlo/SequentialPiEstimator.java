@@ -1,13 +1,11 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package montecarlo;
 
-/**
- *
- * @author MOH
- */
-public class SequentialPiEstimator {
-    
+public class SequentialPiEstimator implements PiEstimator {
+
+    @Override
+    public double estimatePi(SimulationConfig config) {
+        // Sequential Monte Carlo implementation
+
+        return 0.0;
+    }
 }

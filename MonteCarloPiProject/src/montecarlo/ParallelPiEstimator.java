@@ -1,13 +1,14 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package montecarlo;
+public class ParallelPiEstimator implements PiEstimator {
 
-/**
- *
- * @author MOH
- */
-public class ParallelPiEstimator {
-    
+    @Override
+    public double estimatePi(SimulationConfig config) {
+        // Create ExecutorService
+        // Divide points into tasks
+        // Submit tasks
+        // Collect Future results
+        // Calculate Pi
+        // Shutdown ExecutorService
+        return 0.0;
+    }
 }

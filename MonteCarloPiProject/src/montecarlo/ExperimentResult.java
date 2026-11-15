@@ -1,13 +1,13 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package montecarlo;
 
-/**
- *
- * @author MOH
- */
+package montecarlo;
 public class ExperimentResult {
-    
+
+    private double estimatedPi;
+    private long runtime;
+    private double absoluteError;
+    private int numThreads;
+    private double speedup;
+
+    // Constructor
+    // Getters
 }

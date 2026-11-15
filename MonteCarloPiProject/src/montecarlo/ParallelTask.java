@@ -1,13 +1,17 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package montecarlo;
+import java.util.concurrent.Callable;
+public class ParallelTask implements Callable<Long> {
 
-/**
- *
- * @author MOH
- */
-public class ParallelTask {
-    
+    private long points;
+
+    public ParallelTask(long points) {
+        this.points = points;
+    }
+
+    @Override
+    public Long call() {
+        // Generate random points
+        // Count hits
+        return 0L;
+    }
 }
