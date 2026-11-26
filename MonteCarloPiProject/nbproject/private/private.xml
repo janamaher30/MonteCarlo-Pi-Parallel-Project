@@ -2,15 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/D:/Jana/College/Github/MonteCarlo-Pi-Parallel-Project/MonteCarloPiProject/src/montecarlo/SequentialPiEstimator.java</file>
-            <file>file:/D:/Jana/College/Github/MonteCarlo-Pi-Parallel-Project/MonteCarloPiProject/src/montecarlo/SimulationConfig.java</file>
-            <file>file:/D:/Jana/College/Github/MonteCarlo-Pi-Parallel-Project/MonteCarloPiProject/src/montecarlo/PiEstimator.java</file>
-            <file>file:/D:/Jana/College/Github/MonteCarlo-Pi-Parallel-Project/MonteCarloPiProject/src/montecarlo/ParallelTask.java</file>
-            <file>file:/D:/Jana/College/Github/MonteCarlo-Pi-Parallel-Project/MonteCarloPiProject/src/montecarlo/ParallelPiEstimator.java</file>
-            <file>file:/D:/Jana/College/Github/MonteCarlo-Pi-Parallel-Project/MonteCarloPiProject/src/montecarlo/PiExperimentRunner.java</file>
-            <file>file:/D:/Jana/College/Github/MonteCarlo-Pi-Parallel-Project/MonteCarloPiProject/src/montecarlo/ExperimentResult.java</file>
-            <file>file:/D:/Jana/College/Github/MonteCarlo-Pi-Parallel-Project/MonteCarloPiProject/src/montecarlo/Main.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
